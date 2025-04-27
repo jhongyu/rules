@@ -1,0 +1,22 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain_suffix": [
+        "utgd.net",
+        "forum.unt.ag",
+        "frontendmentor.io",
+        "practical-accessibility.today",
+        "ui.dev",
+        "query.gg",
+        "react.gg",
+        "beyondcss.dev",
+        "jvns.ca",
+        "wizardzines.com",
+        "keyboardmaestro.com",
+        "frontendmasters.com",
+        "designcourse.com"
+      ]
+    }
+  ]
+}
